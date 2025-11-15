@@ -57,7 +57,7 @@ export const postUsuario = async (
     if (profilePhoto.uri.startsWith('data:')) {
       const blob = base64ToBlob(profilePhoto.uri);
       formData.append('profile_photo', blob, profilePhoto.name);
-    } else {
+    } else { 
       // URI local normal, repassa direto
       formData.append('profile_photo', {
         uri: profilePhoto.uri,
