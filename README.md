@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   An opinionated template that will allow you to start a new React Native project quickly with Expo, TypeScript, Prettier, ESLint, and some custom configurations that will make development process better. 💖
 </p>
@@ -43,3 +44,7 @@ Happy hacking! 🤓
 - `npm run prettier` - run Prettier formatter.
 - `npm run release` - generate a changelog, bump the version of app and create a new tag.
 - `npm run test` - run tests.
+=======
+# API-Tester-App
+Esse projeto foi projetado para testar requisições de uma API desenvolvida em Spring Boot. Será documento melhor futuramente. 
+>>>>>>> fd34f36586e8be7f4c964edfa19c431cab57d51d
